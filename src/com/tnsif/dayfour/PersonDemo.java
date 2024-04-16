@@ -17,6 +17,7 @@ public class PersonDemo
 		
 		name=s.nextLine();
 		age=s.nextInt();
+		s.nextLine();
 		city=s.nextLine();
 		
 		p1.setPersonName(name);
